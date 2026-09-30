@@ -1,0 +1,11 @@
+.venv/
+.jenkins-venv/
+
+__pycache__/
+.pytest_cache/
+*.pyc
+
+.env
+
+kubectl
+minikube-linux-amd64
