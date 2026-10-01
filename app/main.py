@@ -23,7 +23,7 @@ class HouseInput(BaseModel):
 @app.get("/")
 def home():
     return {
-        "message": "House Price Prediction API is running",
+        "message": "House Price Prediction API is running - CI/CD v2",
         "docs": "/docs"
     }
 
