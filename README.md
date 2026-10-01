@@ -1,4 +1,3 @@
-# house-price-api
 # House Price Prediction API with Automated CI/CD
 
 A machine-learning-powered REST API for house price prediction, containerized with Docker and deployed through an automated CI/CD pipeline using Jenkins and Kubernetes.
