@@ -22,9 +22,6 @@ The application is then:
 ---
 
 ## 🎯 Objectives
-
-- Build a REST API for house price prediction.
-- Integrate a machine learning model with FastAPI.
 - Create automated tests for the API.
 - Containerize the application using Docker.
 - Automate the build and deployment process using Jenkins.
@@ -728,7 +725,7 @@ This project provides practical experience with:
 # 👩‍💻 Author
 
 **Shreya Salunkhe**
-3rd year
+3rd year|
 B.Tech Information Technology
 
 ---
